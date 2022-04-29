@@ -1,4 +1,7 @@
-Main JavaScripter /°/ in love with Elixir
+Main JavaScripter 
+
+## Snake it up!
+![snake gif](https://github.com/Ristwolf/Ristwolf/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Ristwolf/Ristwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
